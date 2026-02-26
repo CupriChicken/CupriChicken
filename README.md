@@ -2,8 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord
-- 😄 Pronouns: he/him/they/them
+- 📫 How to reach me Discord, Telegram and Signal
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: ...
 
 <!---
